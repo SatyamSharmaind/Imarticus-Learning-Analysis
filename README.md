@@ -22,7 +22,9 @@ successfully.
 Main Power BI dashboard file -https://github.com/SatyamSharmaind/Imarticus-Learning-Analysis/blob/main/Imarticus_sales_dashboard.pbix  
 Sample dataset  - https://github.com/SatyamSharmaind/Imarticus-Learning-Analysis/blob/main/imarticus_course_sales_2020_2024.csv
 screenshot1.png`, `screenshot2.png` → Dashboard previews 
--https://github.com/SatyamSharmaind/Imarticus-Learning-Analysis/blob/main/Imarticus_sales_dashboard_page-0001.jpg
+![Imarticus_sales_dashboard_page-0001](https://github.com/user-attachments/assets/43b0d971-cc1b-4810-b01b-6cad8dbcc306)
+![WhatsApp Image 2025-09-21 at 02 10 54_36ddf121](https://github.com/user-attachments/assets/97a946c3-719a-475c-baf3-41b9d2f856f3)
+
 
 ## Business Value   
 This dashboard can help **Imarticus Learning** and similar education institutes:
