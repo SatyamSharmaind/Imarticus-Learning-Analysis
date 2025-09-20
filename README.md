@@ -28,7 +28,8 @@ screenshot1.png`, `screenshot2.png` → Dashboard previews
 
 ## Business Value   
 This dashboard can help **Imarticus Learning** and similar education institutes:
-- Track **student growth** over time.   - Identify **top-performing courses** for scaling.
+- Track **student growth** over time.
+- Identify **top-performing courses** for scaling.
 - Improve **student retention & completion rates**.
 - Optimize **marketing strategies** by understanding demographic insights.  
 
