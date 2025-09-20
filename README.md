@@ -1,2 +1,4 @@
-# Imarticus-Learning-Analysis
-This project focuses on analyzing Imarticus Learning data using Power BI to uncover valuable insights in the field of education and e-learning. The goal was to transform raw data into meaningful visualizations that help educators, management teams, and stakeholders make informed decisions.
+#Project Description
+
+This project focuses on analyzing Imarticus Learning synthetic data from 2020 to 2024 using Power BI, transforming raw datasets into actionable insights. The goal was to explore trends in student enrollments, course popularity, performance metrics, and other key parameters over a five-year period.
+
